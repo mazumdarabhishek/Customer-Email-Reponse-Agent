@@ -1,2 +1,7 @@
 chroma/
 skincare_complaints.db
+online_store
+complaint_registration_agent.ipynb
+langchain_agent.ipynb
+product_reccommendation_agent.ipynb
+__pycache__/

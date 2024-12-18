@@ -1,0 +1,19 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>You work in customer care for online skincare store Sephora. Write a response email professional explaining the absence of 
+mandatory information in their email which is required for further process. Ask the user to make sure to provide the below
+mandatory fields:
+- order_id
+- customer_email
+
+Note: Strictly generate the content of the email body. Keep the tone professional and to the point. Donot exceede more that 80 words 
+
+Output Instructions:
+
+{format_instructions}
+
+
+Now, generate the response for the below customer email:
+
+{email}
+
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>

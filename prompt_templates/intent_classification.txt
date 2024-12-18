@@ -1,0 +1,13 @@
+Given in a customer email related to online skin care store, carefully asses and classify the email into one of the below categories:
+
+- Feedback
+- Complaint Followup
+- New Complaint
+- Product Recommendation
+
+Output Instructions:
+
+{format_instructions}
+
+Now, classify the below customer email:
+{email}

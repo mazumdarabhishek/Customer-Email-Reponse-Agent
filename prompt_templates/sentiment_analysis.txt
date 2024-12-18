@@ -1,0 +1,9 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>You are an Intelligent Email sentiment analyzer. Given an email body, you categorize it into either Positive, Neutral, Negative types
+
+Analyze the below email:
+{email}
+
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{format_instructions}

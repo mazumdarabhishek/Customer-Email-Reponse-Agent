@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>You are a helpful AI Agent, proficient in extracting required entities from an email that is related to a online order complaint.
+Below are the mandatory entities needed in an input email body:
+- order_id: the Order ID of the online purchase
+- customer_email: customer's email id 
+
+
+{format_instructions}
+
+Now, Return the JSON output for the below email:
+
+{email}
+<|eot_id|><|start_header_id|>assistant<|end_header_id|>
